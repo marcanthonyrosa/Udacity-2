@@ -1,0 +1,20 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+
+    While this is mostly review (I reset the course and am starting from scratch), it's incredibly helpful to deepen my "research" mindset and feel comfortable referencing questions in documentation! I'd say the skill I've learned the most in this renewal of the program is confidence in myself  :)
+
+  * What has been easy?
+
+    I promise you that I'm not a know-it-all! Since these learnings are review, it's been easy to pick html back up and to review general web markup.
+
+  * What has been difficult?
+
+    Again, I promise I'm not a know-it-all! So far, it's been generally smooth sailing. I found myself not remembering some semantic elements (like the <sub> tags!) so that was great to refresh my memory.
+
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+    Research has been key! Feeling confident in myself that I'll be able to lean on documentation and the Internet when I hit a road block - that's an outstanding skill to strengthen and reinforce! I cannot wait to continue leaning on this research mindset as I jump into the nuances of web dev!
+
+---
+
+Your response goes here!
